@@ -19,5 +19,5 @@ for i in range(n):
 print(n)
 print(cnt_err)
 print(cnt)
-# print(f'{max:.1f}')
+print(f'{max:.1f}')
 # print(f'{(ave / (n - cnt_err)):.1f}')
