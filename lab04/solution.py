@@ -41,4 +41,4 @@ def above_average(names: list[str], scores: list[float]):
             if scores[i] > ave:
                 lst.append(names[i])
         return lst
-print(ranking(["Аня", "Боря", "Вика"], [7.0, 9.0, 8.0]))
+
