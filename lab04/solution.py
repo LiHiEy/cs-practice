@@ -1,3 +1,4 @@
+# working program
 def winner(names: list[str], scores: list[float]):
     for i in range(len(names)):
         if max(scores) == scores[i]:
